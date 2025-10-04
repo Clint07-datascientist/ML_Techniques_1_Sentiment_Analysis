@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+
+# NLP Libraries
+nltk
+spacy
+contractions
+wordcloud
+
+# Data Download
+kagglehub
+
+# Additional NLP/Embeddings
+# gensim  # Removed: has compatibility issues with Python 3.13, add back when needed with: gensim<4.4.0
+
+# Progress bars
+tqdm
+
+# For saving/loading processed data
+pyarrow
+fastparquet

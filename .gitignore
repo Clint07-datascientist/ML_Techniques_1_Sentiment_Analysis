@@ -1,0 +1,90 @@
+# Task description (keeping it local)
+TASK.md
+
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large datasets)
+*.parquet
+*.pkl
+*.pickle
+
+# Keep data directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+
+# MacOS
+.DS_Store
+
+# Model checkpoints
+*.h5
+*.hdf5
+models/*.h5
+models/*.hdf5
+
+# Logs
+*.log
+logs/
+
+# Evaluation file 
+EVALUATION.md
+# Experiment notebooks (keep only main notebook)
+notebooks/

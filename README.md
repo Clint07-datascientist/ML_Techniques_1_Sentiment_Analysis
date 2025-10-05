@@ -797,6 +797,15 @@ Sequential([
 
 ---
 
+## Contributors
+
+- [Reponse Ashimwe](https://github.com/reponseashimwe)
+- [Christine Serwaa Akoto-Nimoh](https://github.com/AkotoChristine)
+- [Chol Daniel Deng Dau](https://github.com/Dau2004)
+- [Clinton Pikita](https://github.com/Clint07-datascientist)
+
+---
+
 ## License
 
 This project is for academic purposes as part of coursework.
